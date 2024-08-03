@@ -1,0 +1,1507 @@
+{
+    "frontendTokenCategories": [
+        {
+            "frontendTokenSets": [
+                {
+                    "frontendTokens": [
+                        {
+                            "defaultValue": "#0d6efd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Blue",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-blue"
+                                }
+                            ],
+                            "name": "BsBlue",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#6610f2",
+                            "editorType": "ColorPicker",
+                            "label": "BS Indigo",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-indigo"
+                                }
+                            ],
+                            "name": "BsIndigo",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#6f42c1",
+                            "editorType": "ColorPicker",
+                            "label": "BS Purple",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-purple"
+                                }
+                            ],
+                            "name": "BsPurple",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#d63384",
+                            "editorType": "ColorPicker",
+                            "label": "BS Pink",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-pink"
+                                }
+                            ],
+                            "name": "BsPink",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#dc3545",
+                            "editorType": "ColorPicker",
+                            "label": "BS Red",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-red"
+                                }
+                            ],
+                            "name": "BsRed",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#fd7e14",
+                            "editorType": "ColorPicker",
+                            "label": "BS Orange",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-orange"
+                                }
+                            ],
+                            "name": "BsOrange",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#ffc107",
+                            "editorType": "ColorPicker",
+                            "label": "BS Yellow",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-yellow"
+                                }
+                            ],
+                            "name": "BsYellow",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#198754",
+                            "editorType": "ColorPicker",
+                            "label": "BS Green",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-green"
+                                }
+                            ],
+                            "name": "BsGreen",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#20c997",
+                            "editorType": "ColorPicker",
+                            "label": "BS Teal",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-teal"
+                                }
+                            ],
+                            "name": "BsTeal",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#0dcaf0",
+                            "editorType": "ColorPicker",
+                            "label": "BS Cyan",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-cyan"
+                                }
+                            ],
+                            "name": "BsCyan",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#000000",
+                            "editorType": "ColorPicker",
+                            "label": "BS Black",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-black"
+                                }
+                            ],
+                            "name": "BsBlack",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#ffffff",
+                            "editorType": "ColorPicker",
+                            "label": "BS White",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-white"
+                                }
+                            ],
+                            "name": "BsWhite",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#6c757d",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray"
+                                }
+                            ],
+                            "name": "BsGray",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#343a40",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray Dark",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-dark"
+                                }
+                            ],
+                            "name": "BsGrayDark",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#f8f9fa",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 100",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-100"
+                                }
+                            ],
+                            "name": "BsGray100",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#e9ecef",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 200",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-200"
+                                }
+                            ],
+                            "name": "BsGray200",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#dee2e6",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 300",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-300"
+                                }
+                            ],
+                            "name": "BsGray300",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#ced4da",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 400",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-400"
+                                }
+                            ],
+                            "name": "BsGray400",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#adb5bd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 500",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-500"
+                                }
+                            ],
+                            "name": "BsGray500",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#6c757d",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 600",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-600"
+                                }
+                            ],
+                            "name": "BsGray600",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#495057",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 700",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-700"
+                                }
+                            ],
+                            "name": "BsGray700",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#343a40",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 800",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-800"
+                                }
+                            ],
+                            "name": "BsGray800",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#212529",
+                            "editorType": "ColorPicker",
+                            "label": "BS Gray 900",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gray-900"
+                                }
+                            ],
+                            "name": "BsGray900",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#0d6efd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Primary",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-primary"
+                                }
+                            ],
+                            "name": "BsPrimary",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#6c757d",
+                            "editorType": "ColorPicker",
+                            "label": "BS Secondary",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary"
+                                }
+                            ],
+                            "name": "BsSecondary",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#198754",
+                            "editorType": "ColorPicker",
+                            "label": "BS Success",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-success"
+                                }
+                            ],
+                            "name": "BsSuccess",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#0dcaf0",
+                            "editorType": "ColorPicker",
+                            "label": "BS Info",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-info"
+                                }
+                            ],
+                            "name": "BsInfo",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#ffc107",
+                            "editorType": "ColorPicker",
+                            "label": "BS Warning",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-warning"
+                                }
+                            ],
+                            "name": "BsWarning",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#dc3545",
+                            "editorType": "ColorPicker",
+                            "label": "BS Danger",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-danger"
+                                }
+                            ],
+                            "name": "BsDanger",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#f8f9fa",
+                            "editorType": "ColorPicker",
+                            "label": "BS Light",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-light"
+                                }
+                            ],
+                            "name": "BsLight",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#212529",
+                            "editorType": "ColorPicker",
+                            "label": "BS Dark",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-dark"
+                                }
+                            ],
+                            "name": "BsDark",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "13, 110, 253",
+                            "label": "BS Primary RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-primary-rgb"
+                                }
+                            ],
+                            "name": "BsPrimaryRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "108, 117, 125",
+                            "label": "BS Secondary RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary-rgb"
+                                }
+                            ],
+                            "name": "BsSecondaryRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "25, 135, 84",
+                            "label": "BS Success RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-success-rgb"
+                                }
+                            ],
+                            "name": "BsSuccessRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "13, 202, 240",
+                            "label": "BS Info RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-info-rgb"
+                                }
+                            ],
+                            "name": "BsInfoRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "255, 193, 7",
+                            "label": "BS Warning RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-warning-rgb"
+                                }
+                            ],
+                            "name": "BsWarningRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "220, 53, 69",
+                            "label": "BS Danger RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-danger-rgb"
+                                }
+                            ],
+                            "name": "BsDangerRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "248, 249, 250",
+                            "label": "BS Light RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-light-rgb"
+                                }
+                            ],
+                            "name": "BsLightRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "33, 37, 41",
+                            "label": "BS Dark RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-dark-rgb"
+                                }
+                            ],
+                            "name": "BsDarkRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#052c65",
+                            "editorType": "ColorPicker",
+                            "label": "BS Primary Text Emphasis",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-primary-text-emphasis"
+                                }
+                            ],
+                            "name": "BsPrimaryTextEmphasis",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#2b2f32",
+                            "editorType": "ColorPicker",
+                            "label": "BS Secondary Text Emphasis",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary-text-emphasis"
+                                }
+                            ],
+                            "name": "BsSecondaryTextEmphasis",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#0a3622",
+                            "editorType": "ColorPicker",
+                            "label": "BS Success Text Emphasis",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-success-text-emphasis"
+                                }
+                            ],
+                            "name": "BsSuccessTextEmphasis",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#055160",
+                            "editorType": "ColorPicker",
+                            "label": "BS Info Text Emphasis",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-info-text-emphasis"
+                                }
+                            ],
+                            "name": "BsInfoTextEmphasis",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#664d03",
+                            "editorType": "ColorPicker",
+                            "label": "BS Warning Text Emphasis",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-warning-text-emphasis"
+                                }
+                            ],
+                            "name": "BsWarningTextEmphasis",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#58151c",
+                            "editorType": "ColorPicker",
+                            "label": "BS Danger Text Emphasis",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-danger-text-emphasis"
+                                }
+                            ],
+                            "name": "BsDangerTextEmphasis",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#495057",
+                            "editorType": "ColorPicker",
+                            "label": "BS Light Text Emphasis",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-light-text-emphasis"
+                                }
+                            ],
+                            "name": "BsLightTextEmphasis",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#495057",
+                            "editorType": "ColorPicker",
+                            "label": "BS Dark Text Emphasis",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-dark-text-emphasis"
+                                }
+                            ],
+                            "name": "BsDarkTextEmphasis",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#cfe2ff",
+                            "editorType": "ColorPicker",
+                            "label": "BS Primary BG Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-primary-bg-subtle"
+                                }
+                            ],
+                            "name": "BsPrimaryBGSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#e2e3e5",
+                            "editorType": "ColorPicker",
+                            "label": "BS Secondary BG Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary-bg-subtle"
+                                }
+                            ],
+                            "name": "BsSecondaryBGSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#d1e7dd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Success BG Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-success-bg-subtle"
+                                }
+                            ],
+                            "name": "BsSuccessBGSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#cff4fc",
+                            "editorType": "ColorPicker",
+                            "label": "BS Info BG Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-info-bg-subtle"
+                                }
+                            ],
+                            "name": "BsInfoBGSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#fff3cd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Warning BG Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-warning-bg-subtle"
+                                }
+                            ],
+                            "name": "BsWarningBGSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#f8d7da",
+                            "editorType": "ColorPicker",
+                            "label": "BS Danger BG Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-danger-bg-subtle"
+                                }
+                            ],
+                            "name": "BsDangerBGSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#fcfcfd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Light BG Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-light-bg-subtle"
+                                }
+                            ],
+                            "name": "BsLightBGSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#ced4da",
+                            "editorType": "ColorPicker",
+                            "label": "BS Dark BG Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-dark-bg-subtle"
+                                }
+                            ],
+                            "name": "BsDarkBGSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#9ec5fe",
+                            "editorType": "ColorPicker",
+                            "label": "BS Primary Border Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-primary-border-subtle"
+                                }
+                            ],
+                            "name": "BsPrimaryBorderSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#c4c8cb",
+                            "editorType": "ColorPicker",
+                            "label": "BS Secondary Border Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary-border-subtle"
+                                }
+                            ],
+                            "name": "BsSecondaryBorderSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#a3cfbb",
+                            "editorType": "ColorPicker",
+                            "label": "BS Success Border Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-success-border-subtle"
+                                }
+                            ],
+                            "name": "BsSuccessBorderSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#9eeaf9",
+                            "editorType": "ColorPicker",
+                            "label": "BS Info Border Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-info-border-subtle"
+                                }
+                            ],
+                            "name": "BsInfoBorderSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#ffe69c",
+                            "editorType": "ColorPicker",
+                            "label": "BS Warning Border Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-warning-border-subtle"
+                                }
+                            ],
+                            "name": "BsWarningBorderSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#f1aeb5",
+                            "editorType": "ColorPicker",
+                            "label": "BS Danger Border Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-danger-border-subtle"
+                                }
+                            ],
+                            "name": "BsDangerBorderSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#e9ecef",
+                            "editorType": "ColorPicker",
+                            "label": "BS Light Border Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-light-border-subtle"
+                                }
+                            ],
+                            "name": "BsLightBorderSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#adb5bd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Dark Border Subtle",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-dark-border-subtle"
+                                }
+                            ],
+                            "name": "BsDarkBorderSubtle",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "255, 255, 255",
+                            "label": "BS White RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-white-rgb"
+                                }
+                            ],
+                            "name": "BsWhiteRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0, 0, 0",
+                            "label": "BS Black RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-black-rgb"
+                                }
+                            ],
+                            "name": "BsBlackRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#212529",
+                            "editorType": "ColorPicker",
+                            "label": "BS Body Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-body-color"
+                                }
+                            ],
+                            "name": "BsBodyColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "33, 37, 41",
+                            "label": "BS Body Color RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-body-color-rgb"
+                                }
+                            ],
+                            "name": "BsBodyColorRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#ffffff",
+                            "editorType": "ColorPicker",
+                            "label": "BS Body BG",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-body-bg"
+                                }
+                            ],
+                            "name": "BsBodyBG",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "255, 255, 255",
+                            "label": "BS Body BG RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-body-bg-rgb"
+                                }
+                            ],
+                            "name": "BsBodyBGRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#000000",
+                            "editorType": "ColorPicker",
+                            "label": "BS Emphasis Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-emphasis-color"
+                                }
+                            ],
+                            "name": "BsEmphasisColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0, 0, 0",
+                            "label": "BS Emphasis Color RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-emphasis-color-rgb"
+                                }
+                            ],
+                            "name": "BsEmphasisColorRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "rgba(33, 37, 41, 0.75)",
+                            "editorType": "ColorPicker",
+                            "label": "BS Secondary Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary-color"
+                                }
+                            ],
+                            "name": "BsSecondaryColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "33, 37, 41",
+                            "label": "BS Secondary Color RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary-color-rgb"
+                                }
+                            ],
+                            "name": "BsSecondaryColorRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#e9ecef",
+                            "editorType": "ColorPicker",
+                            "label": "BS Secondary BG",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary-bg"
+                                }
+                            ],
+                            "name": "BsSecondaryBG",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "233, 236, 239",
+                            "label": "BS Secondary BG RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-secondary-bg-rgb"
+                                }
+                            ],
+                            "name": "BsSecondaryBGRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "rgba(33, 37, 41, 0.5)",
+                            "editorType": "ColorPicker",
+                            "label": "BS Tertiary Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-tertiary-color"
+                                }
+                            ],
+                            "name": "BsTertiaryColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "33, 37, 41",
+                            "label": "BS Tertiary Color RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-tertiary-color-rgb"
+                                }
+                            ],
+                            "name": "BsTertiaryColorRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#f8f9fa",
+                            "editorType": "ColorPicker",
+                            "label": "BS Tertiary BG",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-tertiary-bg"
+                                }
+                            ],
+                            "name": "BsTertiaryBG",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "248, 249, 250",
+                            "label": "BS Tertiary BG RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-tertiary-bg-rgb"
+                                }
+                            ],
+                            "name": "BsTertiaryBGRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "inherit",
+                            "editorType": "ColorPicker",
+                            "label": "BS Heading Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-heading-color"
+                                }
+                            ],
+                            "name": "BsHeadingColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#0d6efd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Link Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-link-color"
+                                }
+                            ],
+                            "name": "BsLinkColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "13, 110, 253",
+                            "label": "BS Link Color RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-link-color-rgb"
+                                }
+                            ],
+                            "name": "BsLinkColorRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#0a58ca",
+                            "editorType": "ColorPicker",
+                            "label": "BS Link Hover Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-link-hover-color"
+                                }
+                            ],
+                            "name": "BsLinkHoverColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "10, 88, 202",
+                            "label": "BS Link Hover Color RGB",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-link-hover-color-rgb"
+                                }
+                            ],
+                            "name": "BsLinkHoverColorRGB",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#d63384",
+                            "editorType": "ColorPicker",
+                            "label": "BS Code Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-code-color"
+                                }
+                            ],
+                            "name": "BsCodeColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#212529",
+                            "editorType": "ColorPicker",
+                            "label": "BS Highlight Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-highlight-color"
+                                }
+                            ],
+                            "name": "BsHighlightColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#fff3cd",
+                            "editorType": "ColorPicker",
+                            "label": "BS Highlight BG",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-highlight-bg"
+                                }
+                            ],
+                            "name": "BsHighlightBG",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#dee2e6",
+                            "editorType": "ColorPicker",
+                            "label": "BS Border Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-color"
+                                }
+                            ],
+                            "name": "BsBorderColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "rgba(0, 0, 0, 0.175)",
+                            "editorType": "ColorPicker",
+                            "label": "BS Border Color Translucent",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-color-translucent"
+                                }
+                            ],
+                            "name": "BsBorderColorTranslucent",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "rgba(13, 110, 253, 0.25)",
+                            "editorType": "ColorPicker",
+                            "label": "BS Focus Ring Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-focus-ring-color"
+                                }
+                            ],
+                            "name": "BsFocusRingColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#198754",
+                            "editorType": "ColorPicker",
+                            "label": "BS Form Valid Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-form-valid-color"
+                                }
+                            ],
+                            "name": "BsFormValidColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#198754",
+                            "editorType": "ColorPicker",
+                            "label": "BS Form Valid Border Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-form-valid-border-color"
+                                }
+                            ],
+                            "name": "BsFormValidBorderColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#dc3545",
+                            "editorType": "ColorPicker",
+                            "label": "BS Form Invalid Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-form-invalid-color"
+                                }
+                            ],
+                            "name": "BsFormInvalidColor",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "#dc3545",
+                            "editorType": "ColorPicker",
+                            "label": "BS Form Invalid Border Color",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-form-invalid-border-color"
+                                }
+                            ],
+                            "name": "BsFormInvalidBorderColor",
+                            "type": "String"
+                        }
+                    ],
+                    "label": "Extended Colors",
+                    "name": "extendedColors"
+                }
+            ],
+            "label": "Color Tokens",
+            "name": "colorTokens"
+        },
+        {
+            "frontendTokenSets": [
+                {
+                    "frontendTokens": [
+                        {
+                            "defaultValue": "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'",
+                            "label": "BS Font Sans Serif",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-font-sans-serif"
+                                }
+                            ],
+                            "name": "BsFontSansSerif",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace",
+                            "label": "BS Font Monospace",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-font-monospace"
+                                }
+                            ],
+                            "name": "BsFontMonospace",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0))",
+                            "label": "BS Gradient",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-gradient"
+                                }
+                            ],
+                            "name": "BsGradient",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'",
+                            "label": "BS Body Font Family",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-body-font-family"
+                                }
+                            ],
+                            "name": "BsBodyFontFamily",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "1rem",
+                            "label": "BS Body Font Size",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-body-font-size"
+                                }
+                            ],
+                            "name": "BsBodyFontSize",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "400",
+                            "label": "BS Body Font Weight",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-body-font-weight"
+                                }
+                            ],
+                            "name": "BsBodyFontWeight",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "1.5",
+                            "label": "BS Body Line Height",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-body-line-height"
+                                }
+                            ],
+                            "name": "BsBodyLineHeight",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0.375rem",
+                            "label": "BS Border Radius",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-radius"
+                                }
+                            ],
+                            "name": "BsBorderRadius",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0.25rem",
+                            "label": "BS Border Radius Small",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-radius-sm"
+                                }
+                            ],
+                            "name": "BsBorderRadiusSmall",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0.5rem",
+                            "label": "BS Border Radius Large",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-radius-lg"
+                                }
+                            ],
+                            "name": "BsBorderRadiusLarge",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "1rem",
+                            "label": "BS Border Radius Extra Large",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-radius-xl"
+                                }
+                            ],
+                            "name": "BsBorderRadiusExtraLarge",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "2rem",
+                            "label": "BS Border Radius Extra Extra Large",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-radius-xxl"
+                                }
+                            ],
+                            "name": "BsBorderRadiusExtraExtraLarge",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "var(--bs-border-radius-xxl)",
+                            "label": "BS Border Radius 2XL",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-radius-2xl"
+                                }
+                            ],
+                            "name": "BsBorderRadius2XL",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "50rem",
+                            "label": "BS Border Radius Pill",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-radius-pill"
+                                }
+                            ],
+                            "name": "BsBorderRadiusPill",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0 0.5rem 1rem rgba(0, 0, 0, 0.15)",
+                            "label": "BS Box Shadow",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-box-shadow"
+                                }
+                            ],
+                            "name": "BsBoxShadow",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0 0.125rem 0.25rem rgba(0, 0, 0, 0.075)",
+                            "label": "BS Box Shadow Small",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-box-shadow-sm"
+                                }
+                            ],
+                            "name": "BsBoxShadowSmall",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0 1rem 3rem rgba(0, 0, 0, 0.175)",
+                            "label": "BS Box Shadow Large",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-box-shadow-lg"
+                                }
+                            ],
+                            "name": "BsBoxShadowLarge",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "inset 0 1px 2px rgba(0, 0, 0, 0.075)",
+                            "label": "BS Box Shadow Inset",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-box-shadow-inset"
+                                }
+                            ],
+                            "name": "BsBoxShadowInset",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0.25rem",
+                            "label": "BS Focus Ring Width",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-focus-ring-width"
+                                }
+                            ],
+                            "name": "BsFocusRingWidth",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "0.25",
+                            "label": "BS Focus Ring Opacity",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-focus-ring-opacity"
+                                }
+                            ],
+                            "name": "BsFocusRingOpacity",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "underline",
+                            "label": "BS Link Decoration",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-link-decoration"
+                                }
+                            ],
+                            "name": "BsLinkDecoration",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "1px",
+                            "label": "BS Border Width",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-width"
+                                }
+                            ],
+                            "name": "BsBorderWidth",
+                            "type": "String"
+                        },
+                        {
+                            "defaultValue": "solid",
+                            "label": "BS Border Style",
+                            "mappings": [
+                                {
+                                    "type": "cssVariable",
+                                    "value": "bs-border-style"
+                                }
+                            ],
+                            "name": "BsBorderStyle",
+                            "type": "String"
+                        }
+                    ],
+                    "label": "Extended Structure",
+                    "name": "extendedStructure"
+                }
+            ],
+            "label": "Structure Tokens",
+            "name": "structureTokens"
+        }
+    ]
+}

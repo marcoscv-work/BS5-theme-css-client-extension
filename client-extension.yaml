@@ -1,0 +1,6 @@
+liferay-BS5-theme-css-client-extension:
+    clayURL: css/clay.css
+    frontendTokenDefinitionJSON: src/frontend-token-definition.json
+    mainURL: css/main.css
+    name: BS5 Theme CSS Client Extension
+    type: themeCSS
